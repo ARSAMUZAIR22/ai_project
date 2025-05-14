@@ -1,1 +1,1 @@
-# ai_project
+2D Chess with Adaptive AI opponent
